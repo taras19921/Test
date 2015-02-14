@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MovieApp</string>
+    <string name="title_movieitem_detail">Details</string>
+    <string name="string_year">Release Date: </string>
+    <string name="string_rating">Rating: </string>
+    <string name="string_cast">Cast: </string>
+    <string name="string_hint">Search Movies</string>
+    <string name="string_overview">Overview: </string>
+    <string name="string_production">Production(s): </string>
+    <string name="string_language">Languages: </string>
+    <string name="string_location">Location(s): </string>
+    <string name="dummy">Null</string>
+    <string name="string_genre">Genre(s): </string>
+
+</resources>
